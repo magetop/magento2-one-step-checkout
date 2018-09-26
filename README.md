@@ -20,5 +20,5 @@
 
 ## Support & Contact info
 
-- You can check more features of this extension on the link : https://www.magetop.com/magento-2-one-step-checkout-extension.html
-- Need help setting up or want to customize this extension to meet your business needs? Get instant support with our Live Chat or Send an email to info@magetop.com or Leave us a message on Skype: info@magetop.com
+- Need help setting up or want to customize this extension to meet your business needs? 
+- Get instant support with our Live Chat or Send an email to info@magetop.com or Leave us a message on Skype: info@magetop.com
