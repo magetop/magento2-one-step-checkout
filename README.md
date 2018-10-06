@@ -15,8 +15,8 @@
 ## More features & Demo
 
 - Extension details : https://www.magetop.com/magento-2-one-step-checkout-extension.html
-- Frontend demo : https://magento2.demo.magetop.com
-- Backend demo : https://magento2.demo.magetop.com/admin?demo=onestepcheckout
+- Frontend demo : https://magento2.demo.magetop.com/onestepcheckout
+- Backend demo : https://magento2.demo.magetop.com/onestepcheckout/admin
 
 ## Support & Contact info
 
