@@ -4,12 +4,13 @@
 
 ## Highlight features
 
-- Optimized Checkout page
-- Supports nearly 100% Payment, Shipping methods
-- Compatible out-of-the-box with the 3rd-party modules
-- Allows/Supports Gift Wrap, Gift Message
-- Allows/supports leaving comments and setting delivery time
-- Easy to install and customize
+- Optimized Checkout page.
+- Supports nearly 100% Payment, Shipping methods.
+- Compatible out-of-the-box with the 3rd-party modules.
+- Allows/Supports Gift Wrap, Gift Message.
+- Allows/supports leaving comments and setting delivery time.
+- 100% Open-source, Support multi-store, Support multi-language.
+- Easy to install and customize.
 - And many more feature ...
 
 ## More features & Demo
