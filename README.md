@@ -1,6 +1,6 @@
-# Magento 2 One Step Checkout by MageTop
+# Magento 2 One Step Checkout by Magetop
 
-**Magento 2 One Step Checkout Extension (or Magento 2 One Page Checkout extension)** by MageTop helps reduce the abandonment rate as well as increase the conversion rate dramatically. Ignore the back and forth that are the redundant motions when standing on your site. Displays all information in only one page, which helps customers to checkout quickly. This fast checkout extension in Magento 2 also reduces abandoned cart rates effectively.
+**Magento 2 One Step Checkout Extension (or Magento 2 One Page Checkout extension)** by Magetop helps reduce the abandonment rate as well as increase the conversion rate dramatically. Ignore the back and forth that are the redundant motions when standing on your site. Displays all information in only one page, which helps customers to checkout quickly. This fast checkout extension in Magento 2 also reduces abandoned cart rates effectively.
 
 ## Highlight features
 
@@ -13,7 +13,7 @@
 - Easy to install and customize.
 - And many more feature ...
 
-## More features & Demo
+## More features & demo
 
 - Extension details : https://www.magetop.com/magento-2-one-step-checkout-extension.html
 - Frontend demo : https://magento2.demo.magetop.com/onestepcheckout
