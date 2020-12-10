@@ -19,7 +19,7 @@
 - Frontend demo : https://magento2.demo.magetop.com/onestepcheckout
 - Backend demo : https://magento2.demo.magetop.com/onestepcheckout/admin
 
-## Support & Contact info
+## Support & contact info
 
 - Need help setting up or want to customize this extension to meet your business needs? 
 - Get instant support with our Live Chat
